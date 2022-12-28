@@ -6,4 +6,5 @@ Foi usado HTML, CSS, JavaScript.
 
 Github-Pages: https://teresantp.github.io/Braga.LojaEsporte/
 
-![image](https://user-images.githubusercontent.com/99503156/209740045-0d039a78-d60c-4ab4-839f-b85bd694b900.png)
+![image](https://user-images.githubusercontent.com/99503156/209740182-710a9eb5-707b-472e-81c8-5e0577910c94.png)
+
